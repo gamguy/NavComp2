@@ -1,0 +1,2 @@
+rootProject.name = "My NavComp2"
+include ':app'
